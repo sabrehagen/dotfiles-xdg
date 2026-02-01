@@ -9,6 +9,12 @@ x-scheme-handler/mailto=google-chrome.desktop
 x-scheme-handler/webcal=thorium-browser.desktop
 x-scheme-handler/tonsite=org.telegram.desktop._3e485da34fc040f9218e3891ecde1e6c.desktop
 application/pdf=thorium-browser.desktop
+application/x-rew=install4j_eueybm-roomeqwizard.desktop
+image/jpeg=feh.desktop
+image/png=feh.desktop
+image/gif=feh.desktop
+image/bmp=feh.desktop
+image/tiff=feh.desktop
 
 [Added Associations]
 x-scheme-handler/tonsite=org.telegram.desktop._3e485da34fc040f9218e3891ecde1e6c.desktop;
