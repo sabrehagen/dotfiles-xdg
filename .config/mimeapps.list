@@ -15,6 +15,7 @@ image/png=feh.desktop
 image/gif=feh.desktop
 image/bmp=feh.desktop
 image/tiff=feh.desktop
+application/x-tdesktop-theme=telegram.desktop
 
 [Added Associations]
 x-scheme-handler/tonsite=org.telegram.desktop._3e485da34fc040f9218e3891ecde1e6c.desktop;
