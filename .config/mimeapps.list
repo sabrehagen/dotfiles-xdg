@@ -1,11 +1,11 @@
 [Default Applications]
-text/html=google-chrome.desktop
-x-scheme-handler/http=google-chrome.desktop
-x-scheme-handler/https=google-chrome.desktop
-x-scheme-handler/about=google-chrome.desktop
-x-scheme-handler/unknown=google-chrome.desktop
+text/html=thorium-browser.desktop
+x-scheme-handler/http=thorium-browser.desktop
+x-scheme-handler/https=thorium-browser.desktop
+x-scheme-handler/about=thorium-browser.desktop
+x-scheme-handler/unknown=thorium-browser.desktop
 inode/directory=polo-gtk.desktop
-x-scheme-handler/mailto=google-chrome.desktop
+x-scheme-handler/mailto=thorium-browser.desktop
 x-scheme-handler/webcal=thorium-browser.desktop
 x-scheme-handler/tonsite=org.telegram.desktop._18faa92ddda377ceaa5a576303af9e59.desktop
 application/pdf=thorium-browser.desktop
