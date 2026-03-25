@@ -17,6 +17,7 @@ image/bmp=feh.desktop
 image/tiff=feh.desktop
 application/x-tdesktop-theme=telegram.desktop
 x-scheme-handler/tg=org.telegram.desktop._18faa92ddda377ceaa5a576303af9e59.desktop
+x-scheme-handler/claude-cli=claude-code-url-handler.desktop
 
 [Added Associations]
 x-scheme-handler/tonsite=org.telegram.desktop._3e485da34fc040f9218e3891ecde1e6c.desktop;org.telegram.desktop._18faa92ddda377ceaa5a576303af9e59.desktop;
